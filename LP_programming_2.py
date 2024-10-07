@@ -51,3 +51,5 @@ print(result)
 print(f"Objective function = {model.Obj()}")
 for i in model.i:
     print(f"Number of {i} produced = {x[i]()}")
+
+# Test, kan jeg kommite dette
