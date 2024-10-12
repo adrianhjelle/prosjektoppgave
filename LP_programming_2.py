@@ -53,3 +53,5 @@ for i in model.i:
     print(f"Number of {i} produced = {x[i]()}")
 
 # Test, kan jeg kommite dette
+
+# Test 2, fjerner ting
